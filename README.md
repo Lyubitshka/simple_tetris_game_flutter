@@ -9,7 +9,15 @@ Tetris is a classic puzzle game built with Flutter. It features dynamic gameplay
 
 ## Requirements  
 - Flutter SDK (minimum version 3.0.0).  
-- Dart SDK (bundled with Flutter).  
+- Dart SDK (bundled with Flutter).
+
+## Instalation
+1. Create flutter project.
+2. Copy lib folder to your project.
+3. Install dependencies:<br>
+<code>flutter pub get</code>
+4. Run the app on your emulator.
+
 
 <img width="154" alt="tetris_3" src="https://github.com/user-attachments/assets/0ba6fcc4-c85a-470d-a328-1f3f1988856b">
 
@@ -21,9 +29,9 @@ Tetris is a classic puzzle game built with Flutter. It features dynamic gameplay
 
 🕹️ Scoring system.  
 🚀 Increasing difficulty levels.  
-📱 Responsive design.  
-🎨 Dark mode.
-🌐 Online leaderboard.
+📱 Responsive design.  <br>
+🎨 Dark mode.<br>
+🌐 Online leaderboard.<br>
 🎵 Add sound effects.
 
 ## License
